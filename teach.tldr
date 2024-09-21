@@ -1,0 +1,404 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 4,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 25,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 5,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.asset.image": 5,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 2,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 2,
+			"com.tldraw.shape.geo": 9,
+			"com.tldraw.shape.note": 7,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 0,
+			"com.tldraw.shape.arrow": 5,
+			"com.tldraw.shape.highlight": 1,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 4,
+			"com.tldraw.shape.video": 2,
+			"com.tldraw.binding.arrow": 0
+		}
+	},
+	"records": [
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"x": 632.0854336131332,
+			"y": 198.12141791988486,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kS1lxo9zXzGaMkgb2PIS7",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 527.1824122648336,
+				"text": "GitHub: Learn what matters 🚀",
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.4918282825220415
+			},
+			"parentId": "page:page",
+			"index": "a1",
+			"typeName": "shape"
+		},
+		{
+			"x": 790.3912902453294,
+			"y": 253.6995799797295,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:LzmIDPBuf_5uMsWKrGjqQ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 217,
+				"text": "1. Introduction",
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.0544150142717863
+			},
+			"parentId": "page:page",
+			"index": "a22aV",
+			"typeName": "shape"
+		},
+		{
+			"x": 905.4938094156148,
+			"y": 305.14492166533853,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:EkjMHQP1G3EfQmpMsYyav",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"points": [
+							{
+								"x": 0,
+								"y": 0,
+								"z": 0.5
+							},
+							{
+								"x": 0,
+								"y": 7.59,
+								"z": 0.5
+							},
+							{
+								"x": 0,
+								"y": 18.55,
+								"z": 0.5
+							},
+							{
+								"x": 0,
+								"y": 30.36,
+								"z": 0.5
+							},
+							{
+								"x": 0,
+								"y": 42.16,
+								"z": 0.5
+							},
+							{
+								"x": 0,
+								"y": 48.06,
+								"z": 0.5
+							},
+							{
+								"x": 0,
+								"y": 52.28,
+								"z": 0.5
+							},
+							{
+								"x": 0,
+								"y": 53.97,
+								"z": 0.5
+							},
+							{
+								"x": -2.53,
+								"y": 51.44,
+								"z": 0.5
+							},
+							{
+								"x": -4.22,
+								"y": 47.22,
+								"z": 0.5
+							},
+							{
+								"x": -6.75,
+								"y": 43.85,
+								"z": 0.5
+							},
+							{
+								"x": -8.43,
+								"y": 39.63,
+								"z": 0.5
+							},
+							{
+								"x": -9.28,
+								"y": 37.95,
+								"z": 0.5
+							},
+							{
+								"x": -9.28,
+								"y": 38.79,
+								"z": 0.5
+							},
+							{
+								"x": -6.75,
+								"y": 42.16,
+								"z": 0.5
+							},
+							{
+								"x": -4.22,
+								"y": 45.53,
+								"z": 0.5
+							},
+							{
+								"x": 0,
+								"y": 50.59,
+								"z": 0.5
+							},
+							{
+								"x": 4.22,
+								"y": 55.65,
+								"z": 0.5
+							},
+							{
+								"x": 6.75,
+								"y": 59.03,
+								"z": 0.5
+							},
+							{
+								"x": 7.59,
+								"y": 59.87,
+								"z": 0.5
+							},
+							{
+								"x": 9.28,
+								"y": 59.87,
+								"z": 0.5
+							},
+							{
+								"x": 9.28,
+								"y": 59.03,
+								"z": 0.5
+							},
+							{
+								"x": 10.12,
+								"y": 58.18,
+								"z": 0.5
+							},
+							{
+								"x": 10.96,
+								"y": 57.34,
+								"z": 0.5
+							},
+							{
+								"x": 11.81,
+								"y": 55.65,
+								"z": 0.5
+							},
+							{
+								"x": 11.81,
+								"y": 54.81,
+								"z": 0.5
+							},
+							{
+								"x": 11.81,
+								"y": 53.12,
+								"z": 0.5
+							},
+							{
+								"x": 13.49,
+								"y": 51.44,
+								"z": 0.5
+							},
+							{
+								"x": 14.33,
+								"y": 48.91,
+								"z": 0.5
+							},
+							{
+								"x": 15.18,
+								"y": 46.38,
+								"z": 0.5
+							},
+							{
+								"x": 15.18,
+								"y": 45.53,
+								"z": 0.5
+							}
+						]
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a33PY",
+			"typeName": "shape"
+		},
+		{
+			"x": 783.2259686403861,
+			"y": 378.3316169044713,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:WDklcWTe7P1xa_VQDwiJH",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 332.18487548828125,
+				"text": "1 . install git\n2. goto the github website\n3. explore github repos",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a4C1D",
+			"typeName": "shape"
+		},
+		{
+			"id": "pointer:pointer",
+			"typeName": "pointer",
+			"x": 1040.7597772737397,
+			"y": 578.530317262148,
+			"lastActivityTimestamp": 1726935891328,
+			"meta": {}
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 863.3333129882812,
+				"h": 485.83331298828125
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1.2000000476837158,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"editingShapeId": "shape:Edg_ue_S8OyWnK_jLez3G",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:Edg_ue_S8OyWnK_jLez3G"
+			],
+			"hoveredShapeId": "shape:Edg_ue_S8OyWnK_jLez3G",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": -706.5931207795991,
+			"y": -279.6891917738667,
+			"z": 1,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 870.7598077913178,
+			"y": 515.9912681135884,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Edg_ue_S8OyWnK_jLez3G",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 335.4921875,
+				"text": "What is a repository?\nIt refers to posts in github",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a57Qq",
+			"typeName": "shape"
+		}
+	]
+}
