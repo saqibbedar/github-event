@@ -1,0 +1,3 @@
+1. git status --short --branch
+2. git switch -c branch-name
+3. git branch -D branch-name
